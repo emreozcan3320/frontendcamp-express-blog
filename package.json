@@ -1,0 +1,26 @@
+{
+  "name": "frontendcamp-express-blog",
+  "version": "1.0.0",
+  "description": "a small node.js express app for frontendcamp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emreozcan3320/frontendcamp-express-blog.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "emreozcan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emreozcan3320/frontendcamp-express-blog/issues"
+  },
+  "homepage": "https://github.com/emreozcan3320/frontendcamp-express-blog#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "nunjucks": "^3.0.1"
+  }
+}
